@@ -1,7 +1,7 @@
 
 # Mapty Geo - A Map Website for Runners and Cyclists.
 
-### Mapty Geo is a web application designed for runners and cyclists to track, log, and explore their running and cycling routes using an interactive map. This application utilizes HTML, CSS, and JavaScript to provide a user-friendly interface and a range of features tailored to enhance the running and cycling experience.
+#### Mapty Geo is a web application designed for runners and cyclists to track, log, and explore their running and cycling routes using an interactive map.
 
 Getting Started
 To use Mapty Geo, follow these simple steps:
